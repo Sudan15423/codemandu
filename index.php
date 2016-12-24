@@ -17,6 +17,7 @@ include("includes/htmldocu.php");
     <link rel="stylesheet" type="text/css" href="css/custom.css">
     <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
+hello world
 <body>
 
 <?php
