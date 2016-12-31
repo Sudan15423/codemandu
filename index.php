@@ -18,6 +18,7 @@ include("includes/htmldocu.php");
     <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 hello world
+this is codemandu.
 <body>
 
 <?php
